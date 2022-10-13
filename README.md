@@ -3,9 +3,13 @@
 
 ## 1. Preview
 
+This is my first React Learning App which I learning from this youtuber channel:
+
+- [https://www.youtube.com/watch?v=b9eMGE7QtTk](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+
 ![preview](images/preview.png)
 
-> demo: [https://mr-addict.github.io/movieland](https://mr-addict.github.io/movieland)
+> demo page: [https://mr-addict.github.io/movieland](https://mr-addict.github.io/movieland)
 
 ## 2. Commands
 
