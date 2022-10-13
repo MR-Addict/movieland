@@ -1,4 +1,4 @@
-<h1>React Learning App - Movieland<img src="https://github.com/MR-Addict/movieland/actions/workflows/pages.yml/badge.svg?branch=main"/>
+<h1>React Learning App - Movieland <img src="https://github.com/MR-Addict/movieland/actions/workflows/pages.yml/badge.svg?branch=main"/>
 </h1>
 
 ## 1. Preview
@@ -13,7 +13,13 @@ This is my first React Learning App which I learning from this youtuber channel:
 
 ## 2. Commands
 
-### deploy
+### create
+
+```bash
+npx create-react-app movieland
+```
+
+### start
 
 ```bash
 npm start

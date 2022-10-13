@@ -17,7 +17,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    searchMovies("Spiderman");
+    searchMovies("batman");
   }, []);
 
   return (
@@ -27,7 +27,7 @@ const App = () => {
       {/* search bar */}
       <div className="search">
         <input
-          placeholder="Search for movies?"
+          placeholder="Search keywords for movies"
           value={searchTerm}
           onChange={(event) => {
             setSearchTerm(event.target.value);
