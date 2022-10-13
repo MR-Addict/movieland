@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://github.com/MR-Addict/movieland/static/css/main.334bdeb1.css",
-    "main.js": "https://github.com/MR-Addict/movieland/static/js/main.af7b05a5.js",
-    "static/media/404.png": "https://github.com/MR-Addict/movieland/static/media/404.0ebedaf2df91590d6670.png",
-    "index.html": "https://github.com/MR-Addict/movieland/index.html",
-    "static/media/search.svg": "https://github.com/MR-Addict/movieland/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
-    "main.334bdeb1.css.map": "https://github.com/MR-Addict/movieland/static/css/main.334bdeb1.css.map",
-    "main.af7b05a5.js.map": "https://github.com/MR-Addict/movieland/static/js/main.af7b05a5.js.map"
+    "main.css": "./static/css/main.334bdeb1.css",
+    "main.js": "./static/js/main.20e5d619.js",
+    "static/media/404.png": "./static/media/404.0ebedaf2df91590d6670.png",
+    "index.html": "./index.html",
+    "static/media/search.svg": "./static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.334bdeb1.css.map": "./static/css/main.334bdeb1.css.map",
+    "main.20e5d619.js.map": "./static/js/main.20e5d619.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.af7b05a5.js"
+    "static/js/main.20e5d619.js"
   ]
 }
